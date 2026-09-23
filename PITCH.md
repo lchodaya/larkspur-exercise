@@ -8,7 +8,7 @@ Number: Stage 2 wire-rule passes improved from 12/15 to 15/15 conversations, wit
 Safety check: Rebooking is held before confirmation, and refund requests never call a refund tool.
 Next: Improve adversarial-message handling, then compare the same Stage 1 and Stage 2 suites before and after.
 Still broken: The baseline prompt does not reliably acknowledge abuse or legal threats before escalating.
-Lever: cost
+Lever: intelligence
 
 ## Priya asked
 
